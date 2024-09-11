@@ -1,4 +1,4 @@
-# Customer Segmentation Using Hierarchical Clustering and Self-Organizing Maps (SOM)
+# Customer Segmentation Using Hierarchical Clustering | Politecnico di Milano, Italy
 
 This project focuses on **customer segmentation** using a mix of clustering techniques to uncover distinct customer profiles from a dataset with **17 covariates** (11 numerical and 6 categorical).
 
